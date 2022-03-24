@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"title": "Белые тюльпаны",
+		"itemsInBox": 6,
+		"weight": 180,
+		"price": 300,
+		"imgSrc": "tuplany.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Красные розы",
+		"itemsInBox": 6,
+		"weight": 205,
+		"price": 250,
+		"imgSrc": "rozy.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Пионы",
+		"itemsInBox": 6,
+		"weight": 182,
+		"price": 230,
+		"imgSrc": "piony.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Ромашки",
+		"itemsInBox": 6,
+		"weight": 230,
+		"price": 320,
+		"imgSrc": "romashky.jpg"
+	}
+]
